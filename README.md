@@ -1,4 +1,4 @@
-# Elections-presidentielles-francaises
+# Elections-presidentielles-francaises / Juillet-Aout 2021
 Mon objectif via ce projet est de travailler sur un cas concret avec des données réelles.
 Et comme objectif du projet je prends de fournir un outil interactif (dashboard) très facile en pratique pour voir et mieux comprendre l'activité social au 
 domaine politique et rôle de plus grand protecteur des intérêts nationales en France et également qu'elle partage des données des suffrages sur toutes les élections 
