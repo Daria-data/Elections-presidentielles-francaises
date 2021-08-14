@@ -16,3 +16,14 @@ Mes missions seront donc les suivantes:
 Domaine d’application : La France par départements et en total
 
 Mes principaux indicateurs - les suffrages:  inscrits,  votants,  exprimés, blancs et nuls. 
+
+Selon l’objectif fixé, voici la liste des interrogations à requêter dans la base de données:
+-La liste totale de tous les candidats à chaque élection 1965-2017 avec les résultats des 1er et 2e tours (nombre de voix), nom des partis politiques représentés, 
+âge à l'année des élections
+-La liste des gagnant (Présidents) de chaque élection
+-Age moyen des présidents français /  ge minimal des présidents français
+-Le tableau avec pourcentage de voix pour deux candidats en second tour, % de tous les votes, % de blancs et nuls, % d'abstention
+-Quels départements soutiennent le président le plus fort (2000-2017) en % de tous les électeurs inscrits 
+-L'analyse du changement de niveau de l'abstention et niveau de votes par 'Blancs et nuls' en éléctions présidentielles en France, 1965-2017 (en second tour)
+-Participation aux élections par département (en % de Exprimés des Inscrits)
+
