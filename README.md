@@ -16,11 +16,11 @@ Mes principaux indicateurs dans mon travail ce sont les suffrages:  inscrits,  v
 
 Selon l’objectif fixé au départ, voici la liste des questions à requêter dans la base de données:
 ⦁	La liste totale de tous les candidats à chaque élection de 1965 à 2017 avec les résultats des 1er et 2e tours (nombre de voix), nom des partis politiques représentés, âge en année électorale
-⦁	La liste des gagnants (Présidents) de chaque élection
-⦁	Age moyen des présidents français / Âge minimal des présidents français
-⦁	Le tableau avec le pourcentage de voix pour deux candidats au second tour, % de tous les votes, % de blancs et nuls, % d'abstention
-⦁	Quels départements soutiennent  le président le plus fort (2000-2017) en % de tous les électeurs inscrits  
-⦁	L'analyse du changement de niveau de l'abstention et niveau de votes par 'Blancs et nuls' aux éléctions présidentielles en France, 1965-2017 (2ème tour)
-⦁	Participation aux élections par département (en % de Exprimés des Inscrits)
-
+1)	La liste des gagnants (Présidents) de chaque élection
+2)	Age moyen des présidents français / Âge minimal des présidents français
+3)	Le tableau avec le pourcentage de voix pour deux candidats au second tour, % de tous les votes, % de blancs et nuls, % d'abstention
+4)	Quels départements soutiennent  le président le plus fort (2000-2017) en % de tous les électeurs inscrits  
+5)	L'analyse du changement de niveau de l'abstention et niveau de votes par 'Blancs et nuls' aux éléctions présidentielles en France, 1965-2017 (2ème tour)
+6)	Participation aux élections par département (en % de Exprimés des Inscrits)
+etc.
 
